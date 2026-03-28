@@ -21,7 +21,7 @@ A Python-based automated lead generation pipeline for the hospitality industry. 
 
 - **Automated Chatbot Detection** — Scans site source code for Intercom, Drift, HubSpot, Tidio, and 10+ other platforms to identify digital gaps.
 - **Intelligent Lead Scoring** — Proprietary logic that assigns priorities based on property size, review density, and current technology adoption.
-- **Review Keyword Sentiment Analysis** — Scrapes Google Maps reviews to identify pain points or selling opportunities. It scans for negative Keywords (e.g., "slow response," "hard to book," "outdated") which increase the lead score as they represent a sales opportunity, and Positive Keywords (e.g., "modern app," "great chatbot") which may lower the priority.
+- **Review Keyword Sentiment Analysis** — Scrapes Google Maps reviews to identify pain points or selling opportunities. It scans for negative keywords (e.g., "slow response," "hard to book," "outdated") which increase the lead score as they represent a sales opportunity, and positive keywords (e.g., "modern app," "great chatbot") which may lower the priority.
 - **Multi-Page Website Crawling** — Programmatically follows links to "Contact," "About," and "Rooms" pages within each hotel website to ensure maximum data coverage.
 - **Email Validation & Cleaning** — Filters out junk addresses (e.g., info@google.com) and standardizes obfuscated email formats.
 - **Amenity Mapping** — Keyword-based detection for high-value amenities like Spas, Gyms, and Pools.
