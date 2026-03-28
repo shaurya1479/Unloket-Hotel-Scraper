@@ -31,7 +31,7 @@ A Python-based automated lead generation pipeline for the hospitality industry. 
 
 The engine uses a weighted scoring system (out of 84 total points) to categorize leads into three tiers:
 
-- **Hot Leads (60+ points)** — Typically independent or boutique hotels with 40–120 rooms. These are prioritized if they lack an AI chatbot but have high guest engagement (500+ reviews).
+- **Hot Leads (60+ points)** — Typically independent or boutique hotels with 100-150 rooms. These are prioritized if they lack an AI chatbot but have high guest engagement (500+ reviews).
 - **Warm Leads (40-59 points)** — Standard independent properties or inns with some tech adoption but missing key integrations like mobile check-in or guest messaging.
 - **Cold Leads (<40 points)** — Chain hotels or very small properties (under 10 rooms) that do not fit the primary sales profile.
 
